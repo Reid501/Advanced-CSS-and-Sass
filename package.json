@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Laning page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.css css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reid501/Advanced-CSS-and-Sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reid501/Advanced-CSS-and-Sass/issues"
+  },
+  "homepage": "https://github.com/Reid501/Advanced-CSS-and-Sass#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
